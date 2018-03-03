@@ -332,23 +332,23 @@ hr {
     background: url('../1.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../2.jpg')
+    background: url('../2.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: url('../3.jpg')
-    background: url('../4.jpg) 
+   
+    background: url('../4.jpg) ;}
   .tile.tile-16 .tile-inner {
-    color: url(../5.jpg')
-    background: url('../6.jpg') 
+  
+    background: url('../6.jpg') ;}
   .tile.tile-32 .tile-inner {
-    color: url'../7.jpg.')
-    background: url('../8.jpg.') 
+    
+    background: url('../8.jpg.') ;
   .tile.tile-64 .tile-inner {
-    color: url('../8.png.')
-    background: url('../9.png.') 
-  .tile.tile-128 .tile-inner {('../10.png.')
-    color: 
-    background: #edcf72;,url
+   
+    background: url('../9.png.') }
+  .tile.tile-128 .tile-inner {
+  
+    background: url('../10.png.');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
