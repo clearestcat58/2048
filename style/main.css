@@ -323,32 +323,32 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background:url('../1.jpg'),url('../2.jpg'),('../3.jpg'),('../4.jpg),(../5.jpg'),('../6.jpg'),('../7.jpg.'),('../8.jpg.'),('../8.png.'),('../9.png.'),('../10.png.'),('../11.jpg.),backround size;100
+    background:,,,,,,url('../11.jpg.),backround size;100
     text-align: center;
     font-weight: bold;
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: url('../1.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url('../2.jpg')
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    color: url('../3.jpg')
+    background: url('../4.jpg) 
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    color: url(../5.jpg')
+    background: url('../6.jpg') 
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    color: url'../7.jpg.')
+    background: url('../8.jpg.') 
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
-  .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    color: url('../8.png.')
+    background: url('../9.png.') 
+  .tile.tile-128 .tile-inner {('../10.png.')
+    color: 
+    background: #edcf72;,url
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
