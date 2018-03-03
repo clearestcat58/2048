@@ -323,7 +323,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background:url('../1.jpg'),url('../2.jpg'),('../3.jpg'),('../4.jpg),(../5.jpg'),('../6.jpg'),('../7.jpg.'),('../8.jpg.'),('../8.png.'),('../9.png.'),('../10.png.'),('../11.jpg.) ;
+    background:url('../1.jpg'),url('../2.jpg'),('../3.jpg'),('../4.jpg),(../5.jpg'),('../6.jpg'),('../7.jpg.'),('../8.jpg.'),('../8.png.'),('../9.png.'),('../10.png.'),('../11.jpg.),backround size;100
     text-align: center;
     font-weight: bold;
     z-index: 10;
